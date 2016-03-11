@@ -1,0 +1,113 @@
+2016/03/08 14:16:20 listener.go:165: start listener
+2016/03/08 14:17:08 listener.go:165: start listener
+2016/03/08 14:24:03 listener.go:166: start listener
+2016/03/08 14:41:23 listener.go:166: start listener
+2016/03/08 15:09:15 listener.go:161: start listener
+2016/03/08 15:09:21 listener.go:148: Cli ID assign ok: 0
+2016/03/08 15:09:23 listener.go:148: Cli ID assign ok: 1
+2016/03/08 15:09:24 listener.go:148: Cli ID assign ok: 2
+2016/03/08 15:10:00 listener.go:161: start listener
+2016/03/08 15:10:03 listener.go:148: Cli ID assign ok: 0
+2016/03/08 15:10:04 listener.go:148: Cli ID assign ok: 1
+2016/03/08 15:10:05 listener.go:148: Cli ID assign ok: 2
+2016/03/08 15:10:06 listener.go:148: Cli ID assign ok: 3
+2016/03/08 15:10:07 listener.go:148: Cli ID assign ok: 4
+2016/03/08 15:11:40 listener.go:163: start listener
+2016/03/08 15:11:43 listener.go:150: Cli ID assign ok: 0
+2016/03/08 15:11:45 listener.go:150: Cli ID assign ok: 1
+2016/03/08 15:11:47 listener.go:150: Cli ID assign ok: 2
+2016/03/08 15:12:50 listener.go:163: start listener
+2016/03/08 15:12:53 listener.go:150: Cli ID assign ok: 0
+2016/03/08 15:12:54 listener.go:150: Cli ID assign ok: 1
+2016/03/08 15:12:55 listener.go:150: Cli ID assign ok: 2
+2016/03/08 15:12:56 listener.go:150: Cli ID assign ok: 3
+2016/03/08 15:12:57 listener.go:150: Cli ID assign ok: 4
+2016/03/08 15:12:57 listener.go:150: Cli ID assign ok: 5
+2016/03/08 15:12:58 listener.go:150: Cli ID assign ok: 6
+2016/03/08 15:12:59 listener.go:150: Cli ID assign ok: 7
+2016/03/08 15:12:59 listener.go:150: Cli ID assign ok: 8
+2016/03/08 15:13:00 listener.go:150: Cli ID assign ok: 9
+2016/03/08 15:13:01 listener.go:150: Cli ID assign ok: 10
+2016/03/08 15:13:01 listener.go:150: Cli ID assign ok: 11
+2016/03/08 15:13:02 listener.go:150: Cli ID assign ok: 12
+2016/03/08 15:13:02 listener.go:150: Cli ID assign ok: 13
+2016/03/09 18:09:56 listener.go:164: start listener
+2016/03/09 18:10:11 listener.go:151: Cli ID assign ok: 0
+2016/03/09 18:10:11 listener.go:89: errHead: read tcp 127.0.0.1:9989->127.0.0.1:49761: wsarecv: An existing connection was forcibly closed by the remote host.
+2016/03/09 18:10:11 listener.go:56: Client: 5e2ce7a1-2bbc-4ea6-92b7-f42cf3f3bb4f quit
+2016/03/09 18:10:15 listener.go:151: Cli ID assign ok: 1
+2016/03/09 18:10:15 listener.go:89: errHead: read tcp 127.0.0.1:9989->127.0.0.1:49764: wsarecv: An existing connection was forcibly closed by the remote host.
+2016/03/09 18:10:15 listener.go:56: Client: d6b48fd8-b943-4afa-a7e6-e7613b15cfd7 quit
+2016/03/09 18:10:16 listener.go:151: Cli ID assign ok: 2
+2016/03/09 18:10:16 listener.go:89: errHead: read tcp 127.0.0.1:9989->127.0.0.1:49767: wsarecv: An existing connection was forcibly closed by the remote host.
+2016/03/09 18:10:16 listener.go:56: Client: 5487216e-47ce-4764-a213-8aa9dec05f4c quit
+2016/03/09 19:57:36 listener.go:164: start listener
+2016/03/09 19:57:44 listener.go:151: Cli ID assign ok: 0
+2016/03/09 19:57:44 listener.go:89: errHead: read tcp 127.0.0.1:9989->127.0.0.1:52460: wsarecv: An existing connection was forcibly closed by the remote host.
+2016/03/09 19:57:44 listener.go:56: Client: 5b8ea9c2-e360-41c7-bcdf-6debabaa66af quit
+2016/03/09 19:58:49 listener.go:164: start listener
+2016/03/09 19:59:16 listener.go:164: start listener
+2016/03/09 19:59:25 listener.go:151: Cli ID assign ok: 0
+2016/03/09 19:59:25 listener.go:89: errHead: read tcp 127.0.0.1:9989->127.0.0.1:52504: wsarecv: An existing connection was forcibly closed by the remote host.
+2016/03/09 19:59:25 listener.go:56: Client: d19b2923-0286-4298-854c-2983df028f1e quit
+2016/03/09 20:03:16 listener.go:164: start listener
+2016/03/09 20:03:23 listener.go:151: Cli ID assign ok: 0
+2016/03/09 20:03:23 listener.go:89: errHead: read tcp 127.0.0.1:9989->127.0.0.1:52555: wsarecv: An existing connection was forcibly closed by the remote host.
+2016/03/09 20:03:23 listener.go:56: Client: eb886c7b-42b1-4f61-8e63-d9ee7ac91bbf quit
+2016/03/09 20:04:08 listener.go:164: start listener
+2016/03/09 20:04:15 listener.go:151: Cli ID assign ok: 0
+2016/03/09 20:04:15 listener.go:89: errHead: read tcp 127.0.0.1:9989->127.0.0.1:52574: wsarecv: An existing connection was forcibly closed by the remote host.
+2016/03/09 20:04:15 listener.go:56: Client: b55696b4-ba07-482c-8ea4-afc24e62ad5a quit
+2016/03/10 14:09:23 listener.go:164: start listener
+2016/03/10 14:09:33 listener.go:151: Cli ID assign ok: 0
+2016/03/10 14:09:33 listener.go:89: errHead: read tcp 127.0.0.1:9989->127.0.0.1:63209: wsarecv: An existing connection was forcibly closed by the remote host.
+2016/03/10 14:09:33 listener.go:56: Client: 3f65c55f-a7ed-47a0-befe-8eba4b122cdf quit
+2016/03/10 14:09:37 listener.go:151: Cli ID assign ok: 1
+2016/03/10 14:09:38 listener.go:89: errHead: read tcp 127.0.0.1:9989->127.0.0.1:63212: wsarecv: An existing connection was forcibly closed by the remote host.
+2016/03/10 14:09:38 listener.go:56: Client: 97fc22ff-c18c-4a78-b20d-a26fe3997943 quit
+2016/03/10 14:10:56 listener.go:167: start listener
+2016/03/10 14:11:02 listener.go:154: Cli ID assign ok: 0
+2016/03/10 14:11:02 listener.go:92: errHead: read tcp 127.0.0.1:9989->127.0.0.1:63240: wsarecv: An existing connection was forcibly closed by the remote host.
+2016/03/10 14:11:02 listener.go:56: Client: bc30f7fc-27f0-485b-8153-745f7a0a5477 quit
+2016/03/10 14:11:07 listener.go:154: Cli ID assign ok: 1
+2016/03/10 14:11:07 listener.go:92: errHead: read tcp 127.0.0.1:9989->127.0.0.1:63245: wsarecv: An existing connection was forcibly closed by the remote host.
+2016/03/10 14:11:07 listener.go:56: Client: 334a4d71-107a-4b29-a670-a3698bf4c788 quit
+2016/03/10 14:11:08 listener.go:154: Cli ID assign ok: 2
+2016/03/10 14:11:08 listener.go:92: errHead: read tcp 127.0.0.1:9989->127.0.0.1:63249: wsarecv: An existing connection was forcibly closed by the remote host.
+2016/03/10 14:11:08 listener.go:56: Client: 6c166930-9785-4b5e-a4bd-0c252dc57629 quit
+2016/03/10 14:12:22 listener.go:167: start listener
+2016/03/10 14:12:32 listener.go:167: start listener
+2016/03/10 14:12:43 listener.go:167: start listener
+2016/03/10 14:12:52 listener.go:154: Cli ID assign ok: 0
+2016/03/10 14:12:53 listener.go:92: errHead: read tcp 127.0.0.1:9989->127.0.0.1:63281: wsarecv: An existing connection was forcibly closed by the remote host.
+2016/03/10 14:12:53 listener.go:56: Client: 3b0a0ba5-e031-46fd-873d-5067ddbd01dd quit
+2016/03/10 14:15:05 listener.go:167: start listener
+2016/03/10 14:15:09 listener.go:154: Cli ID assign ok: 0
+2016/03/10 14:15:09 listener.go:92: errHead: read tcp 127.0.0.1:9989->127.0.0.1:63310: wsarecv: An existing connection was forcibly closed by the remote host.
+2016/03/10 14:15:09 listener.go:56: Client: 4087918d-550e-4b81-ba0a-8f674aa95b60 quit
+2016/03/10 14:27:56 listener.go:167: start listener
+2016/03/10 14:28:02 listener.go:154: Cli ID assign ok: 0
+2016/03/10 14:28:02 listener.go:92: errHead: read tcp 127.0.0.1:9989->127.0.0.1:63442: wsarecv: An existing connection was forcibly closed by the remote host.
+2016/03/10 14:28:02 listener.go:56: Client: cd5aec37-a22e-4ece-8f39-32ed796f57c8 quit
+2016/03/10 14:28:18 listener.go:154: Cli ID assign ok: 1
+2016/03/10 14:28:18 listener.go:92: errHead: read tcp 127.0.0.1:9989->127.0.0.1:63446: wsarecv: An existing connection was forcibly closed by the remote host.
+2016/03/10 14:28:18 listener.go:56: Client: bcaf87e9-b19b-484c-b237-67f72cde24dd quit
+2016/03/10 14:28:20 listener.go:154: Cli ID assign ok: 2
+2016/03/10 14:28:20 listener.go:92: errHead: read tcp 127.0.0.1:9989->127.0.0.1:63449: wsarecv: An existing connection was forcibly closed by the remote host.
+2016/03/10 14:28:20 listener.go:56: Client: 9811b253-675d-4750-aa6e-3fe6d2d7fde4 quit
+2016/03/10 14:32:19 listener.go:168: start listener
+2016/03/10 14:32:28 listener.go:155: Cli ID assign ok: 0
+2016/03/10 14:32:28 listener.go:56: Client: 30257cce-fe01-4d6b-ab36-59722db0d89e quit
+2016/03/10 14:36:23 listener.go:168: start listener
+2016/03/10 14:36:29 listener.go:155: Cli ID assign ok: 0
+2016/03/10 14:36:29 listener.go:56: Client: 1fae3c95-bc16-4cd3-8a77-79d4687757d2 quit
+2016/03/10 17:47:56 listener.go:171: start listener
+2016/03/10 17:48:07 listener.go:158: Cli ID assign ok: 0
+2016/03/10 17:48:07 listener.go:56: Client: 366bf814-07f1-4a2a-80aa-b9aead321917 quit
+2016/03/10 17:48:09 listener.go:158: Cli ID assign ok: 1
+2016/03/10 17:48:09 listener.go:56: Client: b7e09609-6d3a-4a84-9c5b-6cb475eaeb5e quit
+2016/03/10 17:48:13 listener.go:158: Cli ID assign ok: 2
+2016/03/10 17:48:13 listener.go:56: Client: 6f45b8ac-7f27-4616-9d46-2e329aaa08d6 quit
+2016/03/10 17:58:01 listener.go:171: start listener
+2016/03/10 17:58:08 listener.go:158: Cli ID assign ok: 0
+2016/03/10 17:58:11 listener.go:158: Cli ID assign ok: 1
