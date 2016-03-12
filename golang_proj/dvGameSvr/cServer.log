@@ -111,3 +111,6 @@
 2016/03/10 17:58:01 listener.go:171: start listener
 2016/03/10 17:58:08 listener.go:158: Cli ID assign ok: 0
 2016/03/10 17:58:11 listener.go:158: Cli ID assign ok: 1
+2016/03/11 20:53:28 listener.go:171: start listener
+2016/03/11 20:53:38 listener.go:158: Cli ID assign ok: 0
+2016/03/11 20:53:38 listener.go:56: Client: edae625d-5406-45a8-8911-f3f9efa9b085 quit

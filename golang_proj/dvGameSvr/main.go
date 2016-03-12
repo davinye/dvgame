@@ -50,7 +50,7 @@ var (
 	//configFile     = flag.String("configfile", "config.ini", "General configuration file")
 )
 
-func main() {
+func main2() {
 	runtime.GOMAXPROCS(runtime.NumCPU())
 
 	flag.Parse()
